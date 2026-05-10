@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Tema BookingKu -->
+    <color name="primary">#1E3A8A</color>
+    <color name="primary_dark">#0F1E4D</color>
+    <color name="accent">#F59E0B</color>
+    <color name="bg_card">#F3F4F6</color>
+    <color name="text_dark">#111827</color>
+    <color name="text_grey">#6B7280</color>
+    <color name="error_red">#DC2626</color>
+    <color name="success_green">#059669</color>
+</resources>

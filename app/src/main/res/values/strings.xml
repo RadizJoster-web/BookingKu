@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">BookingKu</string>
+
+    <!-- Header -->
+    <string name="title_form">Form Pemesanan Tiket Bioskop</string>
+    <string name="title_result">Detail Pemesanan Tiket</string>
+
+    <!-- Label form -->
+    <string name="label_nama">Nama Pemesan</string>
+    <string name="label_email">Email</string>
+    <string name="label_hp">Nomor HP</string>
+    <string name="label_film">Pilih Film</string>
+    <string name="label_studio">Tipe Studio</string>
+    <string name="label_snack">Snack Tambahan (boleh lebih dari satu)</string>
+    <string name="label_tanggal">Tanggal Tayang</string>
+    <string name="label_jam">Jam Tayang</string>
+    <string name="label_jumlah">Jumlah Tiket</string>
+
+    <!-- Hint -->
+    <string name="hint_nama">Budi Santoso</string>
+    <string name="hint_email">budi@email.com</string>
+    <string name="hint_hp">081234567890</string>
+    <string name="hint_jumlah">2</string>
+    <string name="hint_pilih_tanggal">Pilih Tanggal</string>
+    <string name="hint_pilih_jam">Pilih Jam</string>
+
+    <!-- RadioButton -->
+    <string name="studio_regular">Regular (Rp 50.000)</string>
+    <string name="studio_vip">VIP (Rp 75.000)</string>
+    <string name="studio_imax">IMAX (Rp 100.000)</string>
+
+    <!-- CheckBox -->
+    <string name="snack_popcorn">Popcorn (+ Rp 25.000)</string>
+    <string name="snack_minuman">Minuman (+ Rp 15.000)</string>
+    <string name="snack_nachos">Nachos (+ Rp 30.000)</string>
+
+    <!-- Button -->
+    <string name="btn_pesan">Pesan Tiket</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_hubungi">Hubungi Bioskop</string>
+    <string name="btn_email">Email Konfirmasi</string>
+    <string name="btn_website">Buka Website</string>
+    <string name="btn_kembali">Kembali ke Form</string>
+
+    <!-- Validation -->
+    <string name="err_nama">Nama tidak boleh kosong</string>
+    <string name="err_email_kosong">Email tidak boleh kosong</string>
+    <string name="err_email_format">Email harus mengandung tanda \"@\"</string>
+    <string name="err_hp_kosong">Nomor HP tidak boleh kosong</string>
+    <string name="err_hp_angka">Nomor HP harus berupa angka</string>
+    <string name="err_jumlah_kosong">Jumlah tiket tidak boleh kosong</string>
+    <string name="err_jumlah_angka">Jumlah tiket harus berupa angka lebih dari 0</string>
+    <string name="err_tanggal">Silakan pilih tanggal tayang</string>
+    <string name="err_jam">Silakan pilih jam tayang</string>
+
+    <!-- Result -->
+    <string name="result_nama">Nama: %1$s</string>
+    <string name="result_email">Email: %1$s</string>
+    <string name="result_hp">No. HP: %1$s</string>
+    <string name="result_film">Film: %1$s</string>
+    <string name="result_studio">Studio: %1$s</string>
+    <string name="result_snack">Snack: %1$s</string>
+    <string name="result_tanggal">Tanggal: %1$s</string>
+    <string name="result_jam">Jam: %1$s</string>
+    <string name="result_jumlah">Jumlah Tiket: %1$s</string>
+    <string name="result_total">Total Bayar: Rp %1$s</string>
+    <string name="snack_kosong">Tidak ada</string>
+
+    <!-- Fragment -->
+    <string name="title_riwayat">Pemesanan Terakhir Tersimpan</string>
+    <string name="riwayat_kosong">Belum ada pemesanan tersimpan.</string>
+
+    <!-- Misc -->
+    <string name="logo_desc">Logo BookingKu</string>
+    <string name="phone_bioskop">02112345678</string>
+    <string name="email_bioskop">cs@bookingku.com</string>
+    <string name="website_bioskop">https://www.bookingku.com</string>
+    <string name="email_subject">Konfirmasi Pemesanan Tiket BookingKu</string>
+</resources>
