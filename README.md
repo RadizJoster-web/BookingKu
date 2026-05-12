@@ -8,6 +8,7 @@ Semester Genap 2025/2026
 | Nama             | NIM |
 |------------------|-----|
 | _Radiz Dirganta_ | _2411500107_ |
+| _Dzaky Halmar_ | _2411500131_ |
 
 ## Deskripsi Aplikasi
 
